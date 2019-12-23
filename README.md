@@ -1,6 +1,6 @@
 # logistic-regression
-Using logistic regression to predict bear market probability
-Also adjusting the threshold
+Using logistic regression to predict bear market probability.(S&P500)  
+Also adjusting the threshold.  
 ****
 ![Image text](https://github.com/stxupengyu/logistic-regression/blob/master/img-folder/img1-1.png)  
 ![Image text](https://github.com/stxupengyu/logistic-regression/blob/master/img-folder/img1-2.png) 
